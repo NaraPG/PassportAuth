@@ -19,6 +19,9 @@
 > - `Authenthication`: enables strong authentication with public key cryptography, enabling passwordless authentication and/or secure second-factor authentication without SMS texts.
 > - `Authorization`: The authorize middleware can be added to any route to restrict access to authenticated users within specified roles.
 
+## More
+> [Information](https://github.com/JasanHdz/passportjs/blob/master/notes/notes.md)
+
 ## Dependencies
 > - Install [VS Code](https://code.visualstudio.com/download)
 > - Install [Node.js](https://nodejs.org/en/)
